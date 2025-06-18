@@ -1,5 +1,7 @@
 body {
     background-color: #4d4134;
+    max-width: fit-content;
+    margin-left: 10%;
 }
 .main {
     border-radius: 10px;
@@ -19,6 +21,7 @@ body {
     display: flex;
     border:dashed;
     border-color: antiquewhite;
+    width: fit-content;
 }
 .modpacktext {
     padding: 10px 10px;
