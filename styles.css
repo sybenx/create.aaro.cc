@@ -44,3 +44,6 @@ body {
     text-decoration-thickness: 3px;
     font-weight: bold;
 }
+.modpackimage {
+    border-radius: 4px;
+}
